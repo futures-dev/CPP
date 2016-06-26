@@ -12,7 +12,7 @@ int main() {
 	int* curr = arr + 9;
 	cout << endl;
 	for (int i = 0; i < 10; i++)
-		cout << *curr-- << " ";
+		cout << *(curr--) << " ";
 	system("pause");
 	return 0;
 }

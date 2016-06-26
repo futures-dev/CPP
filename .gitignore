@@ -210,3 +210,5 @@ FakesAssemblies/
 GeneratedArtifacts/
 _Pvt_Extensions/
 ModelManifest.xml
+/Examples/Day_2/Day_2.VC.db
+/Examples/Day_2/Day_2.VC.VC.opendb
